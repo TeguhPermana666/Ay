@@ -1,0 +1,122 @@
+{
+  "rooms": [
+    {
+      "type": "Single Room",
+      "photos": [
+        "/assets/single/BedRoom.jpg",
+        "/assets/single/BathRoom.jpg",
+        "/assets/single/Yard.jpg"
+      ],
+      "facilities": [
+        "Bed ukuran 120 x 200 cm",
+        "Rak set",
+        "Lemari mini",
+        "Kulkas mini",
+        "TV",
+        "Free Wi-Fi",
+        "AC",
+        "Handuk",
+        "Sikat gigi",
+        "Sabun",
+        "Shower panas dingin",
+        "Toilet dalam"
+      ],
+      "price": {
+        "per_day": 225000,
+        "per_month": 4500000,
+        "per_year": 50000000
+      }
+    },
+    {
+      "type": "Double Room",
+      "photos": [
+        "/assets/double/BedRoom.jpg",
+        "/assets/double/BathRoom.jpg",
+        "/assets/double/LivingRoom.jpg"
+      ],
+      "facilities": [
+        "Bed ukuran 160 x 200 cm",
+        "Rak set",
+        "Lemari",
+        "Kulkas mini bar",
+        "TV",
+        "Free Wi-Fi",
+        "AC",
+        "Handuk",
+        "Sikat gigi",
+        "Sabun",
+        "Shower panas dingin",
+        "Toilet dalam"
+      ],
+      "price": {
+        "per_day": 325000,
+        "per_month": 7000000,
+        "per_year": 80000000
+      }
+    },
+    {
+      "type": "Studio Room",
+      "photos": [
+        "/assets/studio/BedRoom.jpg",
+        "/assets/studio/BathRoom.jpg",
+        "/assets/studio/Kitchen.jpg",
+        "/assets/studio/LivingRoom.jpg",
+        "/assets/studio/Balcony.jpg"
+      ],
+      "facilities": [
+        "Bed ukuran 200 x 200 cm",
+        "Rak set",
+        "Lemari pakaian full furniture",
+        "Kulkas mini",
+        "TV",
+        "Free Wi-Fi",
+        "AC",
+        "Kipas angin",
+        "Kitchen",
+        "Balcony",
+        "Posisi bangunan lantai 2",
+        "Handuk",
+        "Sikat gigi",
+        "Sabun",
+        "Shower panas dingin",
+        "Toilet dalam",
+        "View mengarah ladang kosong dgn pohon tinggi"
+      ],
+      "price": {
+        "per_day": 750000,
+        "per_month": 12500000,
+        "per_year": 140000000
+      }
+    },
+    {
+      "type": "Family Room",
+      "photos": [
+        "/assets/family/BedRoom.jpg",
+        "/assets/family/BathRoom.jpg",
+        "/assets/family/LivingRoom.jpg"
+      ],
+      "facilities": [
+        "Dua ruangan kamar tidur",
+        "Living room",
+        "Kitchen",
+        "Bed ukuran 160 x 200 cm",
+        "Rak set",
+        "Lemari pakaian full furniture",
+        "Kulkas besar",
+        "TV",
+        "Free Wi-Fi",
+        "AC",
+        "Handuk",
+        "Sikat gigi",
+        "Sabun",
+        "Shower panas dingin",
+        "Toilet dalam"
+      ],
+      "price": {
+        "per_day": 100000,
+        "per_month": 2400000,
+        "per_year": 28000000
+      }
+    }
+  ]
+}
